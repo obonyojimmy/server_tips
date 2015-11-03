@@ -17,3 +17,6 @@ Start up Webmin with: /etc/init.d/webmin start
 
 After doing that, does it start up for you?
 
+-------------
+php composer.phar require phois/whois --working-dir=/var/www/html2/laravel
+
